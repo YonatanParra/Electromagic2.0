@@ -1,0 +1,16 @@
+.carrito {
+  padding: 20px;
+}
+
+.carrito ul {
+  list-style: none;
+  padding: 0;
+}
+
+.carrito li {
+  margin-bottom: 10px;
+}
+
+.carrito button {
+  margin-left: 10px;
+}

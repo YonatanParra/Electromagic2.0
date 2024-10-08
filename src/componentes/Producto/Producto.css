@@ -1,0 +1,15 @@
+.producto {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+}
+
+.producto img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.producto button {
+  margin-top: 10px;
+}
